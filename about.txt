@@ -1,1 +1,3 @@
 I'm lost with Git. Kinda hate it.
+
+Hello! It's funny because it's true!!
